@@ -1,0 +1,49 @@
+(
+    <__main__.Book object at 0x10225fb80>, 
+    (
+        <__main__.Book object at 0x10225fa00>, 
+        (
+            <__main__.Book object at 0x10225fd60>, 
+            (
+                <__main__.Book object at 0x1022b9480>, 
+                None, 
+                None
+            ), 
+            (
+                <__main__.Book object at 0x10225fac0>, 
+                None, 
+                (
+                    <__main__.Book object at 0x1022b81c0>, 
+                    None, 
+                    None
+                )
+            )
+        ), 
+        (
+            <__main__.Book object at 0x1022b8220>, 
+            (
+                <__main__.Book object at 0x1022b99c0>, 
+                None, 
+                (
+                    <__main__.Book object at 0x1022b83a0>, 
+                    (
+                        <__main__.Book object at 0x1022b93c0>, 
+                        None, 
+                        None
+                    ), 
+                    None
+                )
+            ), 
+            None
+        )
+    ), 
+    (
+        <__main__.Book object at 0x1022b9360>, 
+        (
+            <__main__.Book object at 0x1022b9840>, 
+            None, 
+            None
+        ), 
+        None
+    )
+)
